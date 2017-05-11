@@ -1,0 +1,14 @@
+<Vouchers>
+  <Voucher>
+    <Code>1234</Code>
+    <Used>false</Used>
+  </Voucher>
+  <Voucher>
+    <Code>2234</Code>
+    <Used>false</Used>
+  </Voucher>
+  <Voucher>
+    <Code>3234</Code>
+    <Used>false</Used>
+  </Voucher>
+</Vouchers>
